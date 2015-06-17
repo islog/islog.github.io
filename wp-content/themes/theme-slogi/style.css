@@ -512,7 +512,22 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   line-height: 1;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  content: "";
+  content: "☎";
+}
+
+.icon-gh:before {
+  font-family: 'icomoon';
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  margin-top: 15px;
+    alignment: bottom;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  content: url('../../../gh-cat-small.png');
 }
 
 /* line 109, sass/_icones.scss */
