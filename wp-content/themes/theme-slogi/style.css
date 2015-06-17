@@ -527,7 +527,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
     alignment: bottom;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  content: url('../../../gh-cat-small.png');
+  content: url('../../../gh-cat-mini.png');
 }
 
 /* line 109, sass/_icones.scss */
